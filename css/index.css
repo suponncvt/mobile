@@ -416,7 +416,7 @@ footer {
   .mobile-part img{
     display: block;
     text-align: center;
-    margin-left: 40px;
+    margin-left: 60px;
   }
   .menu {
     width: 100%;
@@ -515,7 +515,7 @@ footer {
   #contact {
     background: url(../img/Form-Background.png) no-repeat;
     background-size: cover;
-    height: 125vh;
+    height: 130vh;
     margin: -50px 0px;
   }
 
@@ -548,7 +548,7 @@ footer {
   .footer-location span,
   .footer-mail i,
   .footer-mail span {
-    font-size: 22px;
+    font-size: 20px;
     padding: 0px;
   }
 
