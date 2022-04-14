@@ -409,19 +409,19 @@ footer {
     width: 100%;
     float: left;
     text-align: center;
-    margin: 20px 0px 20px 700px;
+    margin: 20px 0px 20px 80px;
     font-size: 17px;
   }
 
   .mobile-part img{
     display: block;
     text-align: center;
-    margin-left: 30px;
+    margin-left: 40px;
   }
   .menu {
     width: 100%;
     float: left;
-    margin-left: 50px;
+    margin-left: 60px;
   }
 
   .menu ul li {
@@ -548,7 +548,7 @@ footer {
   .footer-location span,
   .footer-mail i,
   .footer-mail span {
-    font-size: 24px;
+    font-size: 22px;
     padding: 0px;
   }
 
